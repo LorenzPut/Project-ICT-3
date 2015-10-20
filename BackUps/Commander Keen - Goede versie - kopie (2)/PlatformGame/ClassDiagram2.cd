@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PlatformGame.Enemy" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAEAAADAAwAAAAAAAAAAAAAACAAIQAEAEAAAAAI=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformGame.GameObject" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAQAAAAgQgAAAAAAgAAAAAABAAAAAAAgAAAAA=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformGame.Hero" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQQAgAAAgDCAwAkBAEIAAAAECEAjQAIQAEAEgAAAEA=</HashCode>
+      <FileName>Hero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformGame.HeroLives" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAgAAAAAAgAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>HeroLives.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformGame.Item" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAADAAwAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformGame.Klock" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAADAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Klock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformGame.Leeg" Collapsed="true">
+    <Position X="14.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Leeg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformGame.Level" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAkpAACCgAAAAQAAAAAAAgAAQBAABAAAAEAABA=</HashCode>
+      <FileName>Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformGame.Level1" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAgAAAAQAAAAAAAAAAEAAAAAAEAAAAAA=</HashCode>
+      <FileName>Level1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformGame.Level2" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAgAAAAQAAAAAAAAAAEAAAAAAEAAAABA=</HashCode>
+      <FileName>Level2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformGame.LifeItem" Collapsed="true">
+    <Position X="17" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAADAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LifeItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformGame.Manager" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAZCABAISAAADAIgECEBAAAAAAEA4EjAAAAAAAAAAIQ=</HashCode>
+      <FileName>Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformGame.MetalBlock" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAADAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MetalBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformGame.NextLevelDoor" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAADAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NextLevelDoor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformGame.Program" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformGame.Stone" Collapsed="true">
+    <Position X="19.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAADAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Stone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

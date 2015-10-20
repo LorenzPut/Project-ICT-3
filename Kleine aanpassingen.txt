@@ -1,0 +1,7 @@
+aanpassingen:
+
+- klasse Leeg is uit de solution gehaald.
+- level is verder gedesigned.
+- Aantal vijanden verwijdert.
+- variabele StaatOpBlok in level verwijdert.
+- variabele Hit is verwijdert(had geen functie meer).
